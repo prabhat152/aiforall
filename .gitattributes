@@ -1,2 +1,0 @@
-static/images/hero-bg.jpg filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
